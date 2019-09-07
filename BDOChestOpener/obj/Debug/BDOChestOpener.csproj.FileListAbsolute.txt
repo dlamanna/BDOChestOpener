@@ -1,0 +1,10 @@
+C:\Users\phuzE\Dropbox\Programming\BDOChestOpener\BDOChestOpener\bin\Debug\BDOChestOpener.exe.config
+C:\Users\phuzE\Dropbox\Programming\BDOChestOpener\BDOChestOpener\bin\Debug\BDOChestOpener.exe
+C:\Users\phuzE\Dropbox\Programming\BDOChestOpener\BDOChestOpener\bin\Debug\BDOChestOpener.pdb
+C:\Users\phuzE\Dropbox\Programming\BDOChestOpener\BDOChestOpener\obj\Debug\BDOChestOpener.Form1.resources
+C:\Users\phuzE\Dropbox\Programming\BDOChestOpener\BDOChestOpener\obj\Debug\BDOChestOpener.Properties.Resources.resources
+C:\Users\phuzE\Dropbox\Programming\BDOChestOpener\BDOChestOpener\obj\Debug\BDOChestOpener.csproj.GenerateResource.Cache
+C:\Users\phuzE\Dropbox\Programming\BDOChestOpener\BDOChestOpener\obj\Debug\BDOChestOpener.exe
+C:\Users\phuzE\Dropbox\Programming\BDOChestOpener\BDOChestOpener\obj\Debug\BDOChestOpener.pdb
+C:\Users\phuze\Dropbox\Programming\BDOChestOpener\BDOChestOpener\obj\Debug\BDOChestOpener.csprojAssemblyReference.cache
+C:\Users\phuze\Dropbox\Programming\BDOChestOpener\BDOChestOpener\obj\Debug\BDOChestOpener.csproj.CoreCompileInputs.cache
